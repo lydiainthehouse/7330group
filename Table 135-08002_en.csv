@@ -1,0 +1,77 @@
+﻿Table 135-08002 : Poverty indicators,,,,,,
+ ,,,,,,
+ , ,Poor households,Poor population,Poverty rate,Annual total poverty gap,Monthly average poverty gap
+,,Number ('000),Number ('000),(%),HK$ million,HK$
+Type of policy intervention,Year,,,,,
+Before policy intervention (purely theoretical assumption) (1),2009,541.1,1348.4,20.6,25424.4,3900
+Before policy intervention (purely theoretical assumption) (1),2010,535.5,1322.0,20.1,25943.0,4000
+Before policy intervention (purely theoretical assumption) (1),2011,530.3,1295.0,19.6,26891.7,4200
+Before policy intervention (purely theoretical assumption) (1),2012,540.6,1312.3,19.6,28798.4,4400
+Before policy intervention (purely theoretical assumption) (1),2013,554.9,1336.2,19.9,30640.4,4600
+Before policy intervention (purely theoretical assumption) (1),2014,555.2,1324.8,19.6,32785.4,4900
+Before policy intervention (purely theoretical assumption) (1),2015,569.8,1345.0,19.7,35544.7,5200
+Before policy intervention (purely theoretical assumption) (1),2016,582.2,1352.5,19.9,38510.3,5500
+Before policy intervention (purely theoretical assumption) (1),2017,594.0,1376.6,20.1,41457.5,5800
+Before policy intervention (purely theoretical assumption) (1),2018,612.9,1406.5,20.4,44315.5,6000
+Before policy intervention (purely theoretical assumption) (1),2019,648.5,1490.7,21.4,48246.2,6200
+Before policy intervention (purely theoretical assumption) (1),2020,703.4,1652.5,23.6,53541.6,6300
+After policy intervention (recurrent cash) (2),2009,406.3,1043.4,16.0,12790.0,2600
+After policy intervention (recurrent cash) (2),2010,405.3,1030.6,15.7,12829.8,2600
+After policy intervention (recurrent cash) (2),2011,398.8,1005.4,15.2,13701.2,2900
+After policy intervention (recurrent cash) (2),2012,403.0,1017.8,15.2,14807.6,3100
+After policy intervention (recurrent cash) (2),2013,384.8,972.2,14.5,15019.6,3300
+After policy intervention (recurrent cash) (2),2014,382.6,962.1,14.3,15819.8,3400
+After policy intervention (recurrent cash) (2),2015,392.4,971.4,14.3,18152.1,3900
+After policy intervention (recurrent cash) (2),2016,412.4,995.8,14.7,19937.0,4000
+After policy intervention (recurrent cash) (2),2017,419.8,1008.8,14.7,20576.2,4100
+After policy intervention (recurrent cash) (2),2018,434.8,1024.3,14.9,22167.9,4200
+After policy intervention (recurrent cash) (2),2019,474.0,1097.8,15.8,24449.8,4300
+After policy intervention (recurrent cash) (2),2020,514.9,1210.9,17.3,28559.0,4600
+After policy intervention (recurrent + non-recurrent cash) (3),2009,361.2,936.6,14.3,11058.9,2600
+After policy intervention (recurrent + non-recurrent cash) (3),2010,354.2,910.0,13.8,10958.3,2600
+After policy intervention (recurrent + non-recurrent cash) (3),2011,280.8,720.2,10.9,8850.2,2600
+After policy intervention (recurrent + non-recurrent cash) (3),2012,312.5,804.9,12.0,10811.0,2900
+After policy intervention (recurrent + non-recurrent cash) (3),2013,332.8,846.6,12.6,12404.7,3100
+After policy intervention (recurrent + non-recurrent cash) (3),2014,355.4,891.9,13.2,14170.9,3300
+After policy intervention (recurrent + non-recurrent cash) (3),2015,353.8,873.3,12.8,15594.4,3700
+After policy intervention (recurrent + non-recurrent cash) (3),2016,387.1,933.8,13.7,18209.0,3900
+After policy intervention (recurrent + non-recurrent cash) (3),2017,396.5,951.7,13.9,18771.0,3900
+After policy intervention (recurrent + non-recurrent cash) (3),2018,385.3,912.6,13.3,18594.8,4000
+After policy intervention (recurrent + non-recurrent cash) (3),2019,398.8,910.3,13.1,19120.0,4000
+After policy intervention (recurrent + non-recurrent cash) (3),2020,299.8,715.6,10.2,15886.5,4400
+After policy intervention (recurrent cash + in-kind) (4),2009,284.1,726.0,11.1,9515.4,2800
+After policy intervention (recurrent cash + in-kind) (4),2010,278.1,699.5,10.6,9424.6,2800
+After policy intervention (recurrent cash + in-kind) (4),2011,270.5,675.1,10.2,9945.8,3100
+After policy intervention (recurrent cash + in-kind) (4),2012,271.7,674.2,10.1,10675.3,3300
+After policy intervention (recurrent cash + in-kind) (4),2013,269.2,655.8,9.8,11062.9,3400
+After policy intervention (recurrent cash + in-kind) (4),2014,270.7,648.3,9.6,11893.1,3700
+After policy intervention (recurrent cash + in-kind) (4),2015,281.4,668.6,9.8,13659.8,4000
+After policy intervention (recurrent cash + in-kind) (4),2016,304.0,708.6,10.4,15483.3,4200
+After policy intervention (recurrent cash + in-kind) (4),2017,308.4,720.8,10.5,15844.4,4300
+After policy intervention (recurrent cash + in-kind) (4),2018,316.3,730.2,10.6,16767.2,4400
+After policy intervention (recurrent cash + in-kind) (4),2019,340.1,777.7,11.2,18680.7,4600
+After policy intervention (recurrent cash + in-kind) (4),2020,386.4,908.1,13.0,22792.9,4900
+After policy intervention (all selected measures) (5),2009,253.1,644.4,9.9,8354.1,2800
+After policy intervention (all selected measures) (5),2010,246.2,616.4,9.4,8223.7,2800
+After policy intervention (all selected measures) (5),2011,193.8,472.2,7.1,6730.2,2900
+After policy intervention (all selected measures) (5),2012,216.4,523.8,7.8,8068.4,3100
+After policy intervention (all selected measures) (5),2013,233.5,564.4,8.4,9252.0,3300
+After policy intervention (all selected measures) (5),2014,249.5,593.3,8.8,10511.6,3500
+After policy intervention (all selected measures) (5),2015,249.6,585.6,8.6,11710.2,3900
+After policy intervention (all selected measures) (5),2016,283.9,656.7,9.7,13908.1,4100
+After policy intervention (all selected measures) (5),2017,287.3,671.4,9.8,14605.9,4200
+After policy intervention (all selected measures) (5),2018,275.7,638.1,9.3,14344.0,4300
+After policy intervention (all selected measures) (5),2019,287.4,641.5,9.2,15148.5,4400
+After policy intervention (all selected measures) (5),2020,242.2,553.5,7.9,13459.8,4600
+ ,,,,,,
+Note(s):,,,,,,
+"1 Pre-intervention (purely theoretical assumption) household income only includes household members’ employment earnings (before deduction of Mandatory Provident Fund contributions), investment income, and non-social-transfer cash income. In other words, the income is pre-tax income before deducting taxes payable with all cash benefits excluded.",,,,,,
+2 Post-intervention (recurrent cash) household income refers to the pre-intervention household income with taxes payable deducted and all recurrent cash benefits included.,,,,,,
+3 Post-intervention (recurrent + non-recurrent cash) household income refers to the pre-intervention household income with taxes payable deducted and both recurrent and nonrecurrent cash benefits (including one-off measures) included.,,,,,,
+4 Post-intervention (recurrent cash + in-kind) household income refers to the pre-intervention household income with taxes payable deducted and recurrent cash benefits and selected means-tested in-kind benefits (monetised as part of income received) included.,,,,,,
+"5 Post-intervention (all selected measures) household income refers to the pre-intervention household income with taxes payable deducted and recurrent cash benefits, non-recurrent cash benefits (including one-off measures) and selected means-tested in-kind benefits (monetised as part of income) included.",,,,,,
+ ,,,,,,
+Source:,,,,,,
+"General Household Survey, Census and Statistics Department(Enquiry telephone no.: 2887 5220 Enquiry e-mail: ghs@censtatd.gov.hk)",,,,,,
+ ,,,,,,
+"Release Date: 10 November, 2021",,,,,,
